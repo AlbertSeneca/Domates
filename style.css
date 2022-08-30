@@ -1,0 +1,23 @@
+body {
+    background-color: #F0FFFF;
+}
+
+.genel-bilgiler {
+    display: flex;
+    justify-content: center;
+}
+
+.gerekli-uls {
+    list-style-type: none;
+}
+
+.malzeme-ols {
+    list-style-type: none;
+}
+
+.genel {
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-right: 10px;
+}
